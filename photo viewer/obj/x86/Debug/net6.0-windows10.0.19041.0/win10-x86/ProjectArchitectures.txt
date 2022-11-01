@@ -1,0 +1,1 @@
+C:\Users\jacob\source\repos\photo viewer\photo viewer\photo viewer.csproj;x86
